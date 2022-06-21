@@ -1,0 +1,5 @@
+/.idea/
+/.idea/libraries/
+
+# Project exclude paths
+/target/
